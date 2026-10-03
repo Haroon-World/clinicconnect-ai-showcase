@@ -1,0 +1,16 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment / Secrets (Safety Guard)
+.env
+.env.*
+*.pem
+*.key
+*.token
+*.db
+*.sqlite3
+__pycache__/
+*.py[cod]
