@@ -75,17 +75,22 @@ The interaction sequence illustrates how multi-turn natural language is translat
 
 ---
 
-## 📸 Product Screenshots
+## 📸 Product Screenshots (Captured from Live Production Deployment)
 
 | Patient Web Chat Widget | Clinic Admin Dashboard |
 |:---:|:---:|
-| ![Web Chat Widget](docs/screenshots/clinicconnect_web_chat.png) | ![Admin Dashboard](docs/screenshots/clinicconnect_admin_dashboard.png) |
+| ![Web Chat Widget](docs/screenshots/clinicconnect_live_web_chat.png) | ![Admin Dashboard](docs/screenshots/clinicconnect_live_admin_dashboard.png) |
 | *24/7 Conversational AI Patient Assistant* | *Real-time Operations, KPI Telemetry & Appointments* |
 
-| Clinic Authentication Portal |
-|:---:|
-| ![Admin Login](docs/screenshots/clinicconnect_admin_login.png) |
-| *Role-Based Access Control & Tenant Guard* |
+| Live Doctor Shifts & Slot Schedules | Centralized Appointments Management |
+|:---:|:---:|
+| ![Doctor Schedules](docs/screenshots/clinicconnect_live_doctor_schedule.png) | ![Appointments](docs/screenshots/clinicconnect_live_appointments.png) |
+| *Multi-Shift, Break, and Working Hours Matrix* | *Filterable 12-Hour Patient Appointments* |
+
+| Live Conversations & Human-in-the-Loop | Tenant Authentication Guard |
+|:---:|:---:|
+| ![Conversations](docs/screenshots/clinicconnect_live_conversations.png) | ![Admin Login](docs/screenshots/clinicconnect_live_admin_login.png) |
+| *Real-Time Patient Chat & Staff Takeover* | *Role-Based Access Control & Tenant Guard* |
 
 ---
 
